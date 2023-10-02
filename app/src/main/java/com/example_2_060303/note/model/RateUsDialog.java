@@ -120,15 +120,7 @@ public class RateUsDialog extends Dialog {
 
                 if ( rating <= 1 ){
                     ratingImage.setImageResource( R.drawable.one_star );
-                }else if(  rating <= 2 ){
-                    ratingImage.setImageResource( R.drawable.two_star );
-                }else if(  rating <= 3 ){
-                    ratingImage.setImageResource( R.drawable.three_star );
-                }else if(  rating <= 4 ){
-                    ratingImage.setImageResource( R.drawable.four_star );
-                }else if(  rating <= 5 ){
-                    ratingImage.setImageResource( R.drawable.five_star );
-                }
+                } // add more drawable
 
                 // animation
                 animateImage( ratingImage );
