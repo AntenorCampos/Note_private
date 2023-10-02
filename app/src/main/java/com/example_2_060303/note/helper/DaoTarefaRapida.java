@@ -5,9 +5,7 @@ import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import android.util.Log;
 
-import com.example_2_060303.note.model.Tarefa;
 import com.example_2_060303.note.model.Tarefa_Rapida;
 
 import java.util.ArrayList;

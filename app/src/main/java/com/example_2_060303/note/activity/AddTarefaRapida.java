@@ -15,12 +15,9 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.example_2_060303.note.R;
-import com.example_2_060303.note.helper.DaoTarefa;
 import com.example_2_060303.note.helper.DaoTarefaRapida;
-import com.example_2_060303.note.model.Tarefa;
 import com.example_2_060303.note.model.Tarefa_Rapida;
 import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.initialization.InitializationStatus;
 import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;

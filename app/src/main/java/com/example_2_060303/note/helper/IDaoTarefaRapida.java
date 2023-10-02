@@ -1,6 +1,5 @@
 package com.example_2_060303.note.helper;
 
-import com.example_2_060303.note.model.Tarefa;
 import com.example_2_060303.note.model.Tarefa_Rapida;
 
 import java.util.List;
